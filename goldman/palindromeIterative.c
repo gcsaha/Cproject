@@ -35,4 +35,5 @@ void main()
 	{
 		printf("%s is not palindrome\n",src);
 	}
+	// Added comment from VS terminal
 }
